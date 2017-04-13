@@ -1,0 +1,9 @@
+.navbar-nav>.active>a, .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+	background-color: #f1f1f1;
+	text-decoration: none;
+}
+
+#thejumbo {
+	background: #000 url("../antenne.jpg") center center;
+	background-size: cover;
+}
