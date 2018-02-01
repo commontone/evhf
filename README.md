@@ -1,2 +1,3 @@
 # evhf
-My slow-going redo of the Electchester VHF Club's website
+What was going to become the EVHF website.
+I decided to switch to the GRAV platform; got the job done much quicker and still looks neat.
